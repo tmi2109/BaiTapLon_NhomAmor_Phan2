@@ -1,0 +1,7 @@
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\LuaChonHoatDong_Activity-Selection\bin\Debug\LuaChonHoatDong_Activity-Selection.exe.config
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\LuaChonHoatDong_Activity-Selection\bin\Debug\LuaChonHoatDong_Activity-Selection.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\LuaChonHoatDong_Activity-Selection\bin\Debug\LuaChonHoatDong_Activity-Selection.pdb
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\LuaChonHoatDong_Activity-Selection\obj\Debug\LuaChonHoatDong_Activity-Selection.csproj.AssemblyReference.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\LuaChonHoatDong_Activity-Selection\obj\Debug\LuaChonHoatDong_Activity-Selection.csproj.CoreCompileInputs.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\LuaChonHoatDong_Activity-Selection\obj\Debug\LuaChonHoatDong_Activity-Selection.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\LuaChonHoatDong_Activity-Selection\obj\Debug\LuaChonHoatDong_Activity-Selection.pdb

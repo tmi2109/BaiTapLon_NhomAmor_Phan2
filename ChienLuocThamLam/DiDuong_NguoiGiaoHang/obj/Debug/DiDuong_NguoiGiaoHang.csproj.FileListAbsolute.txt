@@ -1,0 +1,7 @@
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\DiDuong_NguoiGiaoHang\bin\Debug\DiDuong_NguoiGiaoHang.exe.config
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\DiDuong_NguoiGiaoHang\bin\Debug\DiDuong_NguoiGiaoHang.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\DiDuong_NguoiGiaoHang\bin\Debug\DiDuong_NguoiGiaoHang.pdb
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\DiDuong_NguoiGiaoHang\obj\Debug\DiDuong_NguoiGiaoHang.csproj.AssemblyReference.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\DiDuong_NguoiGiaoHang\obj\Debug\DiDuong_NguoiGiaoHang.csproj.CoreCompileInputs.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\DiDuong_NguoiGiaoHang\obj\Debug\DiDuong_NguoiGiaoHang.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\DiDuong_NguoiGiaoHang\obj\Debug\DiDuong_NguoiGiaoHang.pdb

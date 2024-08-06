@@ -1,0 +1,7 @@
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\Balo\bin\Debug\Balo.exe.config
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\Balo\bin\Debug\Balo.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\Balo\bin\Debug\Balo.pdb
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\Balo\obj\Debug\Balo.csproj.AssemblyReference.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\Balo\obj\Debug\Balo.csproj.CoreCompileInputs.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\Balo\obj\Debug\Balo.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\Balo\obj\Debug\Balo.pdb

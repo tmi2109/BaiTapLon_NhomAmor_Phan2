@@ -1,0 +1,8 @@
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\Huffman\bin\Debug\Huffman.exe.config
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\Huffman\bin\Debug\Huffman.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\Huffman\bin\Debug\Huffman.pdb
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\Huffman\obj\Debug\Huffman.csproj.CoreCompileInputs.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\Huffman\obj\Debug\Huffman.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\Huffman\obj\Debug\Huffman.pdb
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\Huffman\obj\Debug\Huffman.csproj.AssemblyReference.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BaiTapLon_Nhom_Amor\P2-CL-ThamLam\ChienLuocThamLam\Huffman\obj\Debug\Huffman.csproj.SuggestedBindingRedirects.cache
